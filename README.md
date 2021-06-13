@@ -6,7 +6,7 @@
  
  <img align="center" width="448" alt="1" src="https://user-images.githubusercontent.com/85314744/121818221-20a06a80-cc86-11eb-8ce7-d10e8b4f2aa8.png">  <img align="center" width="308" alt="2" src="https://user-images.githubusercontent.com/85314744/121818274-6b21e700-cc86-11eb-94fb-206a6e8f52db.png">
  
- слика.1 -                                                                  слика.2
+ слика.1 -                                                                                                                                              слика.2
 
 
  
